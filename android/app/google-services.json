@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571281689716",
+    "firebase_url": "https://mob-prog-project.firebaseio.com",
+    "project_id": "mob-prog-project",
+    "storage_bucket": "mob-prog-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571281689716:android:d89f53c0183eba05d69521",
+        "android_client_info": {
+          "package_name": "com.iroc.mob_prog_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571281689716-358ocl477apkv4k8cdgotm4aperr70fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVIFidYqqfaapa1-0Ujyxr-GrqQT05blk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571281689716-358ocl477apkv4k8cdgotm4aperr70fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
